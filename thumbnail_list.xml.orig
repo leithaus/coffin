@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thumbnails>
+	<thumbnail filename="flashmo_089_design.jpg" url="http://www.flashmo.com/preview/flashmo_089_design" target="_self"
+		title="Item One Title"
+		description="This is the text description loaded from the XML file. You can easily manage your thumbnail gallery by editing the XML file. If this thumbnail gallery is useful for you, please make a donation to info@flashmo.com via PayPal. Thank you." />
+	<thumbnail filename="flashmo_088_menu_xml.jpg" url="http://www.flashmo.com/preview/flashmo_088_menu_xml" target="_parent"
+		title="Item Two Title"
+		description="Nulla imperdiet congue metus. Vestibulum dapibus tortor vel orci. Maecenas vulputate, arcu id fermentum eleifend, tortor enim tincidunt mauris, fringilla tincidunt purus urna vel risus." />
+	<thumbnail filename="flashmo_087_random.jpg" url="http://www.flashmo.com/preview/flashmo_087_random" target="_blank"
+		title="Item Three Title"
+		description="Nunc ante erat, varius eu, luctus ac, tristique nec, justo. Fusce dignissim eros ac massa. Phasellus ligula augue, vestibulum in, cursus non, euismod et, pede. " />
+		
+	<thumbnail filename="flashmo_086_speaker.jpg" url="http://www.flashmo.com/preview/flashmo_086_speaker" target="_self"
+		title="Item Four Title"
+		description="Curabitur quis velit quis tortor tincidunt aliquet. Vivamus leo velit, convallis id, ultrices sit amet, tempor a, libero. Quisque rhoncus nulla quis sem." />
+	<thumbnail filename="flashmo_085_stylish.jpg" url="http://www.flashmo.com/preview/flashmo_085_stylish" target="_parent"
+		title="Item Five Title"
+		description="Mauris quis nulla sed ipsum pretium sagittis. Suspendisse feugiat. Ut sodales libero ut odio. Maecenas venenatis metus eu est. In sed risus ac felis varius bibendum." />
+	<thumbnail filename="flashmo_084_intro.jpg" url="http://www.flashmo.com/preview/flashmo_084_intro" target="_blank"
+		title="Item Six Title" 
+		description="Fusce vulputate tellus ac felis. Praesent mauris. Quisque gravida faucibus ligula. Aliquam magna. Phasellus id felis. " />
+		
+	<thumbnail filename="flashmo_083_mouse_effect_2.jpg" url="http://www.flashmo.com/preview/flashmo_083_mouse_effect_2" target="_self"
+		title="Item Seven Title"
+		description="Curabitur quis velit quis tortor tincidunt aliquet. Vivamus leo velit, convallis id, ultrices sit amet, tempor a, libero. Quisque rhoncus nulla quis sem." />
+	<thumbnail filename="flashmo_083_mouse_effect_1.jpg" url="http://www.flashmo.com/preview/flashmo_083_mouse_effect_1" target="_parent"
+		title="Item Eight Title"
+		description="Mauris quis nulla sed ipsum pretium sagittis. Suspendisse feugiat. Ut sodales libero ut odio. Maecenas venenatis metus eu est. In sed risus ac felis varius bibendum." />
+	<thumbnail filename="flashmo_082_dream.jpg" url="http://www.flashmo.com/preview/flashmo_082_dream" target="_self"
+		title="Item Nine Title"
+		description="Aliquam tristique lacus in sapien. Suspendisse potenti. Ut sed pede. Nullam vitae tellus. Sed ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing elit." />
+		
+	<thumbnail filename="flashmo_081_design.jpg" url="http://www.flashmo.com/preview/flashmo_081_design" target="_parent"
+		title="Item Ten Title"
+		description="Nulla imperdiet congue metus. Vestibulum dapibus tortor vel orci. Maecenas vulputate, arcu id fermentum eleifend, tortor enim tincidunt mauris, fringilla tincidunt purus urna vel risus." />
+	<thumbnail filename="flashmo_080_movie.jpg" url="http://www.flashmo.com/preview/flashmo_080_movie" target="_blank"
+		title="Item Eleven Title"
+		description="Maecenas vulputate, arcu id fermentum eleifend, tortor enim tincidunt mauris, fringilla tincidunt purus urna vel risus. Fusce vulputate tellus ac felis. Praesent mauris." />
+	<thumbnail filename="flashmo_079_classic.jpg" url="http://www.flashmo.com/preview/flashmo_079_classic" target="_self"
+		title="Item Twelve Title"
+		description="Curabitur quis velit quis tortor tincidunt aliquet. Vivamus leo velit, convallis id, ultrices sit amet, tempor a, libero. Quisque rhoncus nulla quis sem." />
+		
+	<thumbnail filename="flashmo_077_jeans.jpg" url="http://www.flashmo.com/preview/flashmo_077_jeans" target="_parent"
+		title="Item Thirteen Title"
+		description="Mauris quis nulla sed ipsum pretium sagittis. Suspendisse feugiat. Ut sodales libero ut odio. Maecenas venenatis metus eu est. In sed risus ac felis varius bibendum." />
+	<thumbnail filename="flashmo_076_wood.jpg" url="http://www.flashmo.com/preview/flashmo_076_wood" target="_blank"
+		title="Item Fourteen Title" 
+		description="Fusce vulputate tellus ac felis. Praesent mauris. Quisque gravida faucibus ligula. Aliquam magna. Phasellus id felis. " />
+	<thumbnail filename="flashmo_075_butterfly.jpg" url="http://www.flashmo.com/preview/flashmo_075_butterfly" target="_self"
+		title="Item Fivteen Title"
+		description="Curabitur quis velit quis tortor tincidunt aliquet. Vivamus leo velit, convallis id, ultrices sit amet, tempor a, libero. Quisque rhoncus nulla quis sem." />
+		
+	<thumbnail filename="flashmo_074_film.jpg" url="http://www.flashmo.com/preview/flashmo_074_film" target="_parent"
+		title="Item Sixteen Title"
+		description="Mauris quis nulla sed ipsum pretium sagittis. Suspendisse feugiat. Ut sodales libero ut odio. Maecenas venenatis metus eu est. In sed risus ac felis varius bibendum." />
+	<thumbnail filename="flashmo_073_heart_pink.jpg" url="http://www.flashmo.com/preview/flashmo_073_heart_pink" target="_blank"
+		title="Item Seventeen Title"
+		description="Nulla imperdiet congue metus. Vestibulum dapibus tortor vel orci. Maecenas vulputate, arcu id fermentum eleifend, tortor enim tincidunt mauris, fringilla tincidunt purus urna vel risus." />
+	<thumbnail filename="flashmo_072_blue.jpg" url="http://www.flashmo.com/preview/flashmo_072_blue" target="_blank"
+		title="Item Eighteen Title"
+		description="Fusce vulputate tellus ac felis. Praesent mauris. Quisque gravida faucibus ligula. Aliquam magna. Phasellus id felis." />
+		
+	<thumbnail filename="flashmo_071_sunrise.jpg" url="http://www.flashmo.com/preview/flashmo_071_sunrise" target="_blank"
+		title="Item Nineteen Title"
+		description="Nulla imperdiet congue metus. Vestibulum dapibus tortor vel orci. Maecenas vulputate, arcu id fermentum eleifend, tortor enim tincidunt mauris, fringilla tincidunt purus urna vel risus." />
+	<thumbnail filename="flashmo_070_design.jpg" url="http://www.flashmo.com/preview/flashmo_070_design" target="_blank"
+		title="Item Twenty Title"
+		description="Fusce vulputate tellus ac felis. Praesent mauris. Quisque gravida faucibus ligula. Aliquam magna. Phasellus id felis." />
+	
+</thumbnails>

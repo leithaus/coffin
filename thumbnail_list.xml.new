@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thumbnails>
+	<thumbnail filename="flashmo_089_design.jpg" url="http://www.flashmo.com/preview/flashmo_089_design" target="_self"
+		title="Item One Title"
+		description="This is the text description loaded from the XML file. You can easily manage your thumbnail gallery by editing the XML file. If this thumbnail gallery is useful for you, please make a donation to info@flashmo.com via PayPal. Thank you." />
+	<thumbnail filename="flashmo_088_menu_xml.jpg" url="http://www.flashmo.com/preview/flashmo_088_menu_xml" target="_parent"
+		title="Item Two Title"
+		description="Nulla imperdiet congue metus. Vestibulum dapibus tortor vel orci. Maecenas vulputate, arcu id fermentum eleifend, tortor enim tincidunt mauris, fringilla tincidunt purus urna vel risus." />
+	<thumbnail filename="flashmo_087_random.jpg" url="http://www.flashmo.com/preview/flashmo_087_random" target="_blank"
+		title="Item Three Title"
+		description="Nunc ante erat, varius eu, luctus ac, tristique nec, justo. Fusce dignissim eros ac massa. Phasellus ligula augue, vestibulum in, cursus non, euismod et, pede. " />			
+	
+</thumbnails>
